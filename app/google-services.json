@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1073311203282",
+    "firebase_url": "https://smartfarm-51fe4-default-rtdb.firebaseio.com",
+    "project_id": "smartfarm-51fe4",
+    "storage_bucket": "smartfarm-51fe4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073311203282:android:83d5323129b2f3a4bb120b",
+        "android_client_info": {
+          "package_name": "com.ecommerce.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073311203282-uqf6f26dckt15lt9ad7vchm0vgt3ul5m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ecommerce.user",
+            "certificate_hash": "a0d450620f84dedb02d33e979e66343d58f20a91"
+          }
+        },
+        {
+          "client_id": "1073311203282-ku1uatq0u6r6gcpvj26pi2l6t5ulj1ip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzNlPt8BuTV2gCsiF3EJDWSgxl-jgZt5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073311203282-ku1uatq0u6r6gcpvj26pi2l6t5ulj1ip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
